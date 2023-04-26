@@ -1,4 +1,6 @@
 #divide and conquer
+#binary search in an array of ascending values
+#returns index where the value is found
 
 def BinarySearch (arr, target):
     first = 0

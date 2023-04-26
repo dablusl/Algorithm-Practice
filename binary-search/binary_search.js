@@ -1,3 +1,6 @@
+//binary search in an array of ascending values
+//returns index where the value is found
+
 function BinarySearch(arr, target){
     var first = 0;
     var last = arr.length -1;
